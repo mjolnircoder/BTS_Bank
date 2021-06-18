@@ -1,8 +1,6 @@
 # BTS_Bank
 The Sparks Foundation Internship Project : Basic Banking System.
 
-A Dynamic Website is used to transfer money between 10 users.
-
 Stack used -
 
 Front-end : HTML, CSS, Bootstrap
